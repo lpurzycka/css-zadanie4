@@ -1,0 +1,48 @@
+body {
+    background-color: antiquewhite;
+    }
+
+#kwadraty {
+    margin: auto;
+    width: 50%;  
+    
+}
+
+.k1 {
+        width: 150px;  /*wielkość kwadratu*/
+		height: 150px; /*wielkość kwadratu*/
+        margin-bottom: 10px;  /*odstęp od siebie */
+		background-color:black; /*kolor */
+        display: block; /*powoduje że kwadraty będą jeden pod drugum */
+        opacity: 0.8; /*przezroczystość elementu od 0.0 do 1.0 ; kropka a nie przecinek 8 */
+	}
+
+.k2 {
+	    width: 150px;  /*wielkość kwadratu*/
+		height: 150px; /*wielkość kwadratu*/
+        margin-bottom: 10px;  /*odstęp od siebie */
+		background-color:dimgray; /*kolor */
+        display: block;  /*powoduje że kwadraty będą jeden pod drugum */
+        opacity: 0.8;  /*przezroczystość elementu od 0.0 do 1.0 ; kropka a nie przecinek 8 */
+	}
+
+
+.k3 {
+        width: 150px;
+		height: 150px;
+        margin-bottom: 10px;
+		background-color:darkgray;
+        display: block;   
+        opacity: 0.8;
+    }
+
+
+.k4 {
+        width: 150px;
+		height: 150px;
+        margin-bottom: 10px;
+		background-color:gainsboro;
+        display: block;
+        opacity: 0.8;
+    }
+      
